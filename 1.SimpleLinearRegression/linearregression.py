@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 10 15:55:49 2018
 
-@author: Faiz
+@author: Faizmohammad
 """
 #importing the Libraries
 import numpy as np
